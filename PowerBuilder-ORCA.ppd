@@ -1,0 +1,10 @@
+  <SOFTPKG NAME="PowerBuilder-ORCA" VERSION="0,04,0,0">
+    <IMPLEMENTATION>
+      <CODEBASE HREF="MSWin32-x86-multi-thread/PowerBuilder-ORCA.tar.gz" />
+      <ARCHITECTURE NAME="MSWin32-x86-multi-thread" />
+      <OS NAME="MSWin32" />
+    </IMPLEMENTATION>
+    <ABSTRACT>PowerBuilder ORCA</ABSTRACT>
+    <AUTHOR>Ilya Chelpanov (chelpanov@mail.ru)</AUTHOR>
+    <TITLE>PowerBuilder-ORCA</TITLE>
+  </SOFTPKG>
